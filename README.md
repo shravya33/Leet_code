@@ -6,4 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/shravya33/Leet_code/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/shravya33/Leet_code/tree/master/0183-customers-who-never-order) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shravya33/Leet_code/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shravya33/Leet_code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
