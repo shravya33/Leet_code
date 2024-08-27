@@ -46,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/shravya33/Leet_code/tree/master/1325-path-with-maximum-probability) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shravya33/Leet_code/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shravya33/Leet_code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shravya33/Leet_code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
