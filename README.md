@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shravya33/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/shravya33/Leet_code/tree/master/0409-longest-palindrome) |
 | [2232-adding-spaces-to-a-string](https://github.com/shravya33/Leet_code/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shravya33/Leet_code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/shravya33/Leet_code/tree/master/2232-adding-spaces-to-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shravya33/Leet_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
