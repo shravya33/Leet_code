@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shravya33/Leet_code/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shravya33/Leet_code/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/shravya33/Leet_code/tree/master/0409-longest-palindrome) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shravya33/Leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shravya33/Leet_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shravya33/Leet_code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/shravya33/Leet_code/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shravya33/Leet_code/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shravya33/Leet_code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shravya33/Leet_code/tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/shravya33/Leet_code/tree/master/0409-longest-palindrome) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shravya33/Leet_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
