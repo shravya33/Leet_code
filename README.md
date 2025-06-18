@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/shravya33/Leet_code/tree/master/1325-path-with-maximum-probability) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shravya33/Leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2107-find-unique-binary-string](https://github.com/shravya33/Leet_code/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/shravya33/Leet_code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2232-adding-spaces-to-a-string](https://github.com/shravya33/Leet_code/tree/master/2232-adding-spaces-to-a-string) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/shravya33/Leet_code/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
