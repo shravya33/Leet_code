@@ -13,11 +13,6 @@ class Solution {
             tcount.put(t.charAt(i), tcount.getOrDefault(t.charAt(i), 0)+1);
         }
 
-        if(scount.equals(tcount)){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return scount.equals(tcount);
     }
 }
