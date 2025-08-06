@@ -11,7 +11,6 @@ class Solution {
 
         while (x > 0) {
             digit = x % 10;
-            // Check overflow before updating rev
             if (rev > (Integer.MAX_VALUE - digit) / 10) {
                 return 0;
             }
