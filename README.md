@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shravya33/Leet_code/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/shravya33/Leet_code/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/shravya33/Leet_code/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/shravya33/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravya33/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shravya33/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/shravya33/Leet_code/tree/master/0152-maximum-product-subarray) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shravya33/Leet_code/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shravya33/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shravya33/Leet_code/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/shravya33/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shravya33/Leet_code/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/shravya33/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shravya33/Leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shravya33/Leet_code/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/shravya33/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shravya33/Leet_code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shravya33/Leet_code/tree/master/0242-valid-anagram) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shravya33/Leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
