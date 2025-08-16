@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shravya33/Leet_code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shravya33/Leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shravya33/Leet_code/tree/master/0013-roman-to-integer) |
+| [1448-maximum-69-number](https://github.com/shravya33/Leet_code/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shravya33/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/shravya33/Leet_code/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/shravya33/Leet_code/tree/master/0605-can-place-flowers) |
+| [1448-maximum-69-number](https://github.com/shravya33/Leet_code/tree/master/1448-maximum-69-number) |
 ## Two Pointers
 |  |
 | ------- |
