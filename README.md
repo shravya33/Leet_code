@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shravya33/Leet_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/shravya33/Leet_code/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/shravya33/Leet_code/tree/master/2232-adding-spaces-to-a-string) |
+| [2886-faulty-keyboard](https://github.com/shravya33/Leet_code/tree/master/2886-faulty-keyboard) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shravya33/Leet_code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Greedy
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/shravya33/Leet_code/tree/master/2232-adding-spaces-to-a-string) |
+| [2886-faulty-keyboard](https://github.com/shravya33/Leet_code/tree/master/2886-faulty-keyboard) |
 ## Trie
 |  |
 | ------- |
