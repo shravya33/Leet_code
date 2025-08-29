@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shravya33/Leet_code/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/shravya33/Leet_code/tree/master/0326-power-of-three) |
 | [1448-maximum-69-number](https://github.com/shravya33/Leet_code/tree/master/1448-maximum-69-number) |
+| [2481-strictly-palindromic-number](https://github.com/shravya33/Leet_code/tree/master/2481-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shravya33/Leet_code/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shravya33/Leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/shravya33/Leet_code/tree/master/2232-adding-spaces-to-a-string) |
+| [2481-strictly-palindromic-number](https://github.com/shravya33/Leet_code/tree/master/2481-strictly-palindromic-number) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shravya33/Leet_code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shravya33/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shravya33/Leet_code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shravya33/Leet_code/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/shravya33/Leet_code/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
