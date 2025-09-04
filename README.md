@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shravya33/Leet_code/tree/master/0326-power-of-three) |
 | [1448-maximum-69-number](https://github.com/shravya33/Leet_code/tree/master/1448-maximum-69-number) |
 | [2481-strictly-palindromic-number](https://github.com/shravya33/Leet_code/tree/master/2481-strictly-palindromic-number) |
+| [3830-find-closest-person](https://github.com/shravya33/Leet_code/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
