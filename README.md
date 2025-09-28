@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/shravya33/Leet_code/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/shravya33/Leet_code/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/shravya33/Leet_code/tree/master/0932-monotonic-array) |
+| [1018-largest-perimeter-triangle](https://github.com/shravya33/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1325-path-with-maximum-probability](https://github.com/shravya33/Leet_code/tree/master/1325-path-with-maximum-probability) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shravya33/Leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/shravya33/Leet_code/tree/master/1646-kth-missing-positive-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shravya33/Leet_code/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/shravya33/Leet_code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shravya33/Leet_code/tree/master/0326-power-of-three) |
+| [1018-largest-perimeter-triangle](https://github.com/shravya33/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/shravya33/Leet_code/tree/master/1448-maximum-69-number) |
 | [2481-strictly-palindromic-number](https://github.com/shravya33/Leet_code/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/shravya33/Leet_code/tree/master/3462-vowels-game-in-a-string) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shravya33/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/shravya33/Leet_code/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/shravya33/Leet_code/tree/master/0605-can-place-flowers) |
+| [1018-largest-perimeter-triangle](https://github.com/shravya33/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/shravya33/Leet_code/tree/master/1448-maximum-69-number) |
 ## Two Pointers
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shravya33/Leet_code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shravya33/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shravya33/Leet_code/tree/master/0268-missing-number) |
+| [1018-largest-perimeter-triangle](https://github.com/shravya33/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shravya33/Leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
