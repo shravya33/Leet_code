@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/shravya33/Leet_code/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shravya33/Leet_code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2232-adding-spaces-to-a-string](https://github.com/shravya33/Leet_code/tree/master/2232-adding-spaces-to-a-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/shravya33/Leet_code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shravya33/Leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/shravya33/Leet_code/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shravya33/Leet_code/tree/master/0326-power-of-three) |
 | [1018-largest-perimeter-triangle](https://github.com/shravya33/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/shravya33/Leet_code/tree/master/1448-maximum-69-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/shravya33/Leet_code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/shravya33/Leet_code/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/shravya33/Leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/shravya33/Leet_code/tree/master/3830-find-closest-person) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/shravya33/Leet_code/tree/master/2232-adding-spaces-to-a-string) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/shravya33/Leet_code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2886-faulty-keyboard](https://github.com/shravya33/Leet_code/tree/master/2886-faulty-keyboard) |
 ## Trie
 |  |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/shravya33/Leet_code/tree/master/3462-vowels-game-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/shravya33/Leet_code/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
