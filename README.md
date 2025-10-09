@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shravya33/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shravya33/Leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/shravya33/Leet_code/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shravya33/Leet_code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/shravya33/Leet_code/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2886-faulty-keyboard](https://github.com/shravya33/Leet_code/tree/master/2886-faulty-keyboard) |
 | [3336-water-bottles-ii](https://github.com/shravya33/Leet_code/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shravya33/Leet_code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Trie
 |  |
 | ------- |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/shravya33/Leet_code/tree/master/0794-swim-in-rising-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shravya33/Leet_code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
