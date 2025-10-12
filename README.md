@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shravya33/Leet_code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/shravya33/Leet_code/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shravya33/Leet_code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shravya33/Leet_code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/shravya33/Leet_code/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/shravya33/Leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/shravya33/Leet_code/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shravya33/Leet_code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/shravya33/Leet_code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shravya33/Leet_code/tree/master/0287-find-the-duplicate-number) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shravya33/Leet_code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shravya33/Leet_code/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/shravya33/Leet_code/tree/master/0392-is-subsequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shravya33/Leet_code/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shravya33/Leet_code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shravya33/Leet_code/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shravya33/Leet_code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -305,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shravya33/Leet_code/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shravya33/Leet_code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shravya33/Leet_code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
