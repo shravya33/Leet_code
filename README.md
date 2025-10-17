@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/shravya33/Leet_code/tree/master/2232-adding-spaces-to-a-string) |
 | [2886-faulty-keyboard](https://github.com/shravya33/Leet_code/tree/master/2886-faulty-keyboard) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shravya33/Leet_code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shravya33/Leet_code/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/shravya33/Leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shravya33/Leet_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/shravya33/Leet_code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shravya33/Leet_code/tree/master/0287-find-the-duplicate-number) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shravya33/Leet_code/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shravya33/Leet_code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shravya33/Leet_code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shravya33/Leet_code/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/shravya33/Leet_code/tree/master/0392-is-subsequence) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shravya33/Leet_code/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shravya33/Leet_code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shravya33/Leet_code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
@@ -324,5 +327,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shravya33/Leet_code/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shravya33/Leet_code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
