@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shravya33/Leet_code/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shravya33/Leet_code/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shravya33/Leet_code/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shravya33/Leet_code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/shravya33/Leet_code/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shravya33/Leet_code/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shravya33/Leet_code/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/shravya33/Leet_code/tree/master/2107-find-unique-binary-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shravya33/Leet_code/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shravya33/Leet_code/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shravya33/Leet_code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shravya33/Leet_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/shravya33/Leet_code/tree/master/0794-swim-in-rising-water) |
 | [1325-path-with-maximum-probability](https://github.com/shravya33/Leet_code/tree/master/1325-path-with-maximum-probability) |
 | [1612-avoid-flood-in-the-city](https://github.com/shravya33/Leet_code/tree/master/1612-avoid-flood-in-the-city) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shravya33/Leet_code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -349,5 +352,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shravya33/Leet_code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shravya33/Leet_code/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
