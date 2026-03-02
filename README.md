@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/shravya33/Leet_code/tree/master/0794-swim-in-rising-water) |
 | [0932-monotonic-array](https://github.com/shravya33/Leet_code/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/shravya33/Leet_code/tree/master/1018-largest-perimeter-triangle) |
+| [1046-last-stone-weight](https://github.com/shravya33/Leet_code/tree/master/1046-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/shravya33/Leet_code/tree/master/1325-path-with-maximum-probability) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shravya33/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shravya33/Leet_code/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/shravya33/Leet_code/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/shravya33/Leet_code/tree/master/0794-swim-in-rising-water) |
+| [1046-last-stone-weight](https://github.com/shravya33/Leet_code/tree/master/1046-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/shravya33/Leet_code/tree/master/1325-path-with-maximum-probability) |
 | [1612-avoid-flood-in-the-city](https://github.com/shravya33/Leet_code/tree/master/1612-avoid-flood-in-the-city) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shravya33/Leet_code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
