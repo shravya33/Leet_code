@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shravya33/Leet_code/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shravya33/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shravya33/Leet_code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shravya33/Leet_code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shravya33/Leet_code/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/shravya33/Leet_code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shravya33/Leet_code/tree/master/0287-find-the-duplicate-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shravya33/Leet_code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shravya33/Leet_code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shravya33/Leet_code/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/shravya33/Leet_code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shravya33/Leet_code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shravya33/Leet_code/tree/master/0326-power-of-three) |
 | [1018-largest-perimeter-triangle](https://github.com/shravya33/Leet_code/tree/master/1018-largest-perimeter-triangle) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shravya33/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shravya33/Leet_code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shravya33/Leet_code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/shravya33/Leet_code/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/shravya33/Leet_code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shravya33/Leet_code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shravya33/Leet_code/tree/master/0345-reverse-vowels-of-a-string) |
