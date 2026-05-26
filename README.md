@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shravya33/Leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shravya33/Leet_code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/shravya33/Leet_code/tree/master/0409-longest-palindrome) |
+| [0520-detect-capital](https://github.com/shravya33/Leet_code/tree/master/0520-detect-capital) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shravya33/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shravya33/Leet_code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shravya33/Leet_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
