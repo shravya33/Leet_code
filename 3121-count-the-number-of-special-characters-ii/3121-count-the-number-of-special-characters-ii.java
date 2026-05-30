@@ -11,12 +11,12 @@ class Solution {
                     lastLower = i;
                 }
 
-                if (word.charAt(i) == Character.toUpperCase(ch) & firstUpper == -1) {
+                if (word.charAt(i) == Character.toUpperCase(ch) && firstUpper == -1) {
                     firstUpper = i;
                 }
             }
 
-            if (lastLower != -1 & firstUpper != -1 && lastLower < firstUpper) {
+            if (lastLower != -1 && firstUpper != -1 && lastLower < firstUpper) {
                 count++;
             }
         }
