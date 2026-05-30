@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/shravya33/Leet_code/tree/master/2405-optimal-partition-of-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shravya33/Leet_code/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shravya33/Leet_code/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/shravya33/Leet_code/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shravya33/Leet_code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shravya33/Leet_code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shravya33/Leet_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/shravya33/Leet_code/tree/master/2886-faulty-keyboard) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shravya33/Leet_code/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shravya33/Leet_code/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/shravya33/Leet_code/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shravya33/Leet_code/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/shravya33/Leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shravya33/Leet_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
