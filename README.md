@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shravya33/Leet_code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/shravya33/Leet_code/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/shravya33/Leet_code/tree/master/3462-vowels-game-in-a-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shravya33/Leet_code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shravya33/Leet_code/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/shravya33/Leet_code/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shravya33/Leet_code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shravya33/Leet_code/tree/master/0392-is-subsequence) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shravya33/Leet_code/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shravya33/Leet_code/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shravya33/Leet_code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shravya33/Leet_code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shravya33/Leet_code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shravya33/Leet_code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
