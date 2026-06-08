@@ -19,7 +19,11 @@ class Solution {
      beforepivot.addAll(equalpivot);
      beforepivot.addAll(afterpivot);
 
-     int[] ans = beforepivot.stream().mapToInt(x->x).toArray();
+     int[] ans = new int[nums.length];
+     
+     for(int i=0; i<beforepivot.size(); i++){
+        ans[i]=beforepivot.get(i);
+     }
 
      return ans;
     }
