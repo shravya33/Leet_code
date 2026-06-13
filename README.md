@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/shravya33/Leet_code/tree/master/3689-maximum-total-subarray-value-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/shravya33/Leet_code/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shravya33/Leet_code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/shravya33/Leet_code/tree/master/3838-weighted-word-mapping) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/shravya33/Leet_code/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shravya33/Leet_code/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/shravya33/Leet_code/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/shravya33/Leet_code/tree/master/3462-vowels-game-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/shravya33/Leet_code/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shravya33/Leet_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/shravya33/Leet_code/tree/master/2886-faulty-keyboard) |
 | [3336-water-bottles-ii](https://github.com/shravya33/Leet_code/tree/master/3336-water-bottles-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/shravya33/Leet_code/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/shravya33/Leet_code/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
