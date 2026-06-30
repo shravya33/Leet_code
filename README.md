@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/shravya33/Leet_code/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/shravya33/Leet_code/tree/master/1646-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/shravya33/Leet_code/tree/master/1672-richest-customer-wealth) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shravya33/Leet_code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/shravya33/Leet_code/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shravya33/Leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shravya33/Leet_code/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shravya33/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shravya33/Leet_code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shravya33/Leet_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shravya33/Leet_code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/shravya33/Leet_code/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shravya33/Leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/shravya33/Leet_code/tree/master/2232-adding-spaces-to-a-string) |
