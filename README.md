@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shravya33/Leet_code/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/shravya33/Leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shravya33/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shravya33/Leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shravya33/Leet_code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shravya33/Leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/shravya33/Leet_code/tree/master/1612-avoid-flood-in-the-city) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/shravya33/Leet_code/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/shravya33/Leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shravya33/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shravya33/Leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shravya33/Leet_code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shravya33/Leet_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shravya33/Leet_code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shravya33/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shravya33/Leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shravya33/Leet_code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shravya33/Leet_code/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
