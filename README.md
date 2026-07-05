@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shravya33/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shravya33/Leet_code/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shravya33/Leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shravya33/Leet_code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/shravya33/Leet_code/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1612-avoid-flood-in-the-city](https://github.com/shravya33/Leet_code/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/shravya33/Leet_code/tree/master/1646-kth-missing-positive-number) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/shravya33/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shravya33/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shravya33/Leet_code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shravya33/Leet_code/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/shravya33/Leet_code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shravya33/Leet_code/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shravya33/Leet_code/tree/master/2392-successful-pairs-of-spells-and-potions) |
