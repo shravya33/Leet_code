@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/shravya33/Leet_code/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/shravya33/Leet_code/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shravya33/Leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shravya33/Leet_code/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shravya33/Leet_code/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/shravya33/Leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/shravya33/Leet_code/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1603-design-parking-system](https://github.com/shravya33/Leet_code/tree/master/1603-design-parking-system) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shravya33/Leet_code/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/shravya33/Leet_code/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shravya33/Leet_code/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shravya33/Leet_code/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/shravya33/Leet_code/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
