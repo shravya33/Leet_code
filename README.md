@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/shravya33/Leet_code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/shravya33/Leet_code/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/shravya33/Leet_code/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shravya33/Leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/shravya33/Leet_code/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/shravya33/Leet_code/tree/master/0794-swim-in-rising-water) |
 | [0932-monotonic-array](https://github.com/shravya33/Leet_code/tree/master/0932-monotonic-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shravya33/Leet_code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shravya33/Leet_code/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shravya33/Leet_code/tree/master/0326-power-of-three) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shravya33/Leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/shravya33/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/shravya33/Leet_code/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/shravya33/Leet_code/tree/master/1642-water-bottles) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shravya33/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shravya33/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shravya33/Leet_code/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shravya33/Leet_code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/shravya33/Leet_code/tree/master/1018-largest-perimeter-triangle) |
 | [1288-remove-covered-intervals](https://github.com/shravya33/Leet_code/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shravya33/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
