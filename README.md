@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shravya33/Leet_code/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shravya33/Leet_code/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/shravya33/Leet_code/tree/master/3336-water-bottles-ii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shravya33/Leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3462-vowels-game-in-a-string](https://github.com/shravya33/Leet_code/tree/master/3462-vowels-game-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/shravya33/Leet_code/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shravya33/Leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shravya33/Leet_code/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shravya33/Leet_code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shravya33/Leet_code/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
