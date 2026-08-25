@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shravya33/Leet_code/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shravya33/Leet_code/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/shravya33/Leet_code/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/shravya33/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/shravya33/Leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shravya33/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shravya33/Leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shravya33/Leet_code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/shravya33/Leet_code/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/shravya33/Leet_code/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/shravya33/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/shravya33/Leet_code/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/shravya33/Leet_code/tree/master/1189-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shravya33/Leet_code/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shravya33/Leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/shravya33/Leet_code/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shravya33/Leet_code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/shravya33/Leet_code/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shravya33/Leet_code/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
