@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shravya33/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shravya33/Leet_code/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shravya33/Leet_code/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shravya33/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shravya33/Leet_code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shravya33/Leet_code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shravya33/Leet_code/tree/master/0287-find-the-duplicate-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shravya33/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/shravya33/Leet_code/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/shravya33/Leet_code/tree/master/0794-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/shravya33/Leet_code/tree/master/1046-last-stone-weight) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shravya33/Leet_code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shravya33/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shravya33/Leet_code/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shravya33/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shravya33/Leet_code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shravya33/Leet_code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shravya33/Leet_code/tree/master/0268-missing-number) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shravya33/Leet_code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shravya33/Leet_code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shravya33/Leet_code/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shravya33/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -476,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shravya33/Leet_code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shravya33/Leet_code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shravya33/Leet_code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
